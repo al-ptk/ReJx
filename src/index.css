@@ -1,11 +1,12 @@
 /* Reseting Stuff */
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
 
 :root {
   font-size: 62.5%; /* 10px */
 }
 
 html {
-  background-color: #272727;
+  background-color: #101010;
 }
 
 * {
@@ -13,6 +14,7 @@ html {
   margin: 0px;
   box-sizing: border-box;
   font: inherit;
+  font-family: monospace;
 }
 
 image,
