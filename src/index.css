@@ -1,0 +1,22 @@
+/* Reseting Stuff */
+
+:root {
+  font-size: 62.5%; /* 10px */
+}
+
+html {
+  background-color: #272727;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font: inherit;
+}
+
+image,
+video {
+  display: block;
+  width: 100%;
+}
